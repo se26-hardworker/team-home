@@ -1,1 +1,7 @@
 # team-home
+
+팀명 : 노력파(hardworker)
+
+팀원 1 : 강민주 / gokmj6315   / 설계, 구현
+팀원 2 : 손동권 / sdk1216     / 설계, 테스트
+팀원 3 : 최성효 / SungHyoChoi / 설계, 유지보수
